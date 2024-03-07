@@ -1,4 +1,4 @@
-<p align="left">Hello, I'm Muhammad Akbar Kasyfurrahman 🙌</p>
+<h1 align="left">Hello, I'm Muhammad Akbar Kasyfurrahman 🙌</h1>
 
 ###
 
